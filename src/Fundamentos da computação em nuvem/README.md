@@ -247,26 +247,6 @@
 
     > Dica: Use o menu suspenso Ações para renomear `index.html` para `waves.html`
 
-## Conceitos
-
-### AWS
-- Visão geral da infraestrutura global da AWS
-![Visão geral da infraestrutura global da AWS](img/20250618003922.png)
-- Benefícios da infraestrutura global da AWS
-![Benefícios da infraestrutura global da AWS](img/20250618004318.png)
-
-### AWS Well-Architected
-- Visão geral do AWS Well-Architected
-![Visão geral do AWS Well-Architected](img/20250618004953.png)
-
-### Amazon S3
-- Visão geral do Amazon S3
-![Visão geral do Amazon S3](img/20250618001705.png)
-- Mais recursos do Amazon S3
-![Mais recursos do Amazon S3](img/20250618002511.png)
-- Gerenciamento de acesso ao Amazon S3
-![Gerenciamento de acesso ao Amazon S3](img/20250618003044.png)
-
 ## Saiba mais
 ### Amazon S3
 ![01](img/20250618000150.png)
