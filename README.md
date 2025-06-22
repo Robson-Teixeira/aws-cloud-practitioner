@@ -44,6 +44,12 @@ Repositório de preparação para a certificação AWS Cloud Practitioner.
 - Visão geral de DNS
 ![Visão geral de DNS](src/img/20250618233525.png)
 
+### Cloud Economics
+- Visão geral de preços da AWS
+![Visão geral de preços da AWS](src/img/20250622093658.png)
+
 ### Outros
 - Visão Geral de Suporte, Recursos e Documentação da AWS
 ![Visão Geral de Suporte, Recursos e Documentação da AWS](src/img/20250618233935.png)
+- Visão geral do AWS Cloud Adoption Framework
+![Visão geral do AWS Cloud Adoption Framework](src/img/20250622094114.png)
