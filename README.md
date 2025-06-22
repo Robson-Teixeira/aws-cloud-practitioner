@@ -36,6 +36,10 @@ Repositório de preparação para a certificação AWS Cloud Practitioner.
 - Gerenciamento de acesso ao Amazon S3
 ![Gerenciamento de acesso ao Amazon S3](src/img/20250618003044.png)
 
+### AWS Systems Manager
+- Visão geral do AWS Systems Manager
+![Visão geral do AWS Systems Manager](src/img/20250621190159.png)
+
 ### Amazon Route 53
 - Visão geral de DNS
 ![Visão geral de DNS](src/img/20250618233525.png)
