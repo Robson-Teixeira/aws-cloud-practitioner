@@ -24,6 +24,16 @@ Repositório de preparação para a certificação AWS Cloud Practitioner.
 - Tipos de volume do Amazon EBS
 ![Tipos de volume do Amazon EBS](src/img/20250618232624.png)
 
+### Amazon VPC
+- Visão geral do Amazon VPC
+![Visão geral do Amazon VPC](src/img/20250622134735.png)
+- Conectividade com a internet no Amazon VPC
+![Conectividade com a internet no Amazon VPC](src/img/20250622135258.png)
+- Conceitos do Amazon VPC
+![Conceitos do Amazon VPC](src/img/20250622140527.png)
+- Segurança no Amazon VPC
+![Segurança no Amazon VPC](src/img/20250622141816.png)
+
 ### AWS Well-Architected
 - Visão geral do AWS Well-Architected
 ![Visão geral do AWS Well-Architected](src/img/20250618004953.png)
