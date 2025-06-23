@@ -33,6 +33,8 @@ Repositório de preparação para a certificação AWS Cloud Practitioner.
 ![Conceitos do Amazon VPC](src/img/20250622140527.png)
 - Segurança no Amazon VPC
 ![Segurança no Amazon VPC](src/img/20250622141816.png)
+- Conexões de emparelhamento no Amazon VPC
+![Conexões de emparelhamento no Amazon VPC](src/img/20250623000955.png)
 
 ### AWS Well-Architected
 - Visão geral do AWS Well-Architected
