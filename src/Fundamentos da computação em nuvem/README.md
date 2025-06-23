@@ -248,7 +248,6 @@
     > Dica: Use o menu suspenso Ações para renomear `index.html` para `waves.html`
 
 ## Saiba mais
-### Amazon S3
 ![01](img/20250618000150.png)
 ![02](img/20250618000305.png)
 ![03](img/20250618000504.png)

@@ -369,7 +369,6 @@
         > - Depois de fazer qualquer alteração, para gerar um novo URL, você precisa clicar em Compartilhar novamente.
 
 ## Saiba mais
-### Amazon EC2
 ![01](img/20250622094240.png)
 ![02](img/20250622094500.png)
 ![03](img/20250622094556.png)

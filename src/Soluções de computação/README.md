@@ -328,7 +328,6 @@
     > Dica: A tarefa DIY é configurar somente a alteração do tipo de instância. Você não tem permissão para iniciar o tipo de instância m4.large.
 
 ## Saiba mais
-### Amazon EC2
 ![01](img/20250621190435.png)
 ![02](img/20250621190546.png)
 ![03](img/20250621190709.png)

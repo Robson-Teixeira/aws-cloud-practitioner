@@ -314,7 +314,6 @@
     > Dica: Não altere a região na lista suspensa. O DIY falhará se a região não estiver definida como Norte da Virgínia.
 
 ## Saiba mais
-### Amazon EC2
 ![01](img/20250618234211.png)
 ![02](img/20250618234449.png)
 ![03](img/20250618234542.png)

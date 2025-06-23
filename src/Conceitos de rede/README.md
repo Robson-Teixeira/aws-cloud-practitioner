@@ -350,7 +350,6 @@
         > - O servidor web, usando o grupo de segurança WebServerSecurityGroup, precisa se conectar ao servidor de banco de dados, usando o grupo de segurança DBServerSecurityGroup, por meio de uma conexão TCP na porta 3306 (MySQL/Aurora).
 
 ## Saiba mais
-### Amazon EC2
 ![01](img/20250622142959.png)
 ![02](img/20250622143141.png)
 ![03](img/20250622143434.png)
