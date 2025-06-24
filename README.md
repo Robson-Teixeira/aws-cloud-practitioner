@@ -52,6 +52,21 @@ Repositório de preparação para a certificação AWS Cloud Practitioner.
 - Visão geral do AWS Systems Manager
 ![Visão geral do AWS Systems Manager](src/img/20250621190159.png)
 
+### Amazon Relational Database Service (RDS)
+
+- Visão geral do Amazon RDS
+![Visão geral do Amazon RDS](src/img/20250623215225.png)
+- Disponibilidade e durabilidade do Amazon RDS
+![Disponibilidade e durabilidade do Amazon RDS](src/img/20250623220230.png)
+- Diminuição da carga administrativa com Amazon RDS
+![Diminuição da carga administrativa com Amazon RDS](src/img/20250623221309.png)
+- Gerenciabilidade e eficiência de custos do Amazon RDS
+![Gerenciabilidade e eficiência de custos do Amazon RDS](src/img/20250623221852.png)
+- Escalabilidade do Amazon RDS
+![Escalabilidade do Amazon RDS](src/img/20250623222832.png)
+- Segurança no Amazon RDS
+![Segurança no Amazon RDS](src/img/20250623223936.png)
+
 ### Amazon Route 53
 - Visão geral de DNS
 ![Visão geral de DNS](src/img/20250618233525.png)
