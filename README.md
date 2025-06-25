@@ -52,8 +52,25 @@ Repositório de preparação para a certificação AWS Cloud Practitioner.
 - Visão geral do AWS Systems Manager
 ![Visão geral do AWS Systems Manager](src/img/20250621190159.png)
 
-### Amazon Relational Database Service (RDS)
+### Amazon DynamoDB
+- NoSQL
+![NoSQL](src/img/20250624201957.png)
+- Diferença entre SQL e NoSQL
+![Diferença entre SQL e NoSQL](src/img/20250624203809.png)
+- Como criar uma tabela NoSQL
+![Como criar uma tabela NoSQL](src/img/20250624204354.png)
+- Visão geral de scan do Amazon DynamoDB
+![Visão geral de scan do Amazon DynamoDB](src/img/20250624204938.png)
+- Recursos de scan do Amazon DynamoDB
+![Recursos de scan do Amazon DynamoDB](src/img/20250624210225.png)
+- Visão geral de consultas do Amazon DynamoDB
+![Visão geral de consultas do Amazon DynamoDB](src/img/20250624212030.png)
+- Recursos de consultas do Amazon DynamoDB
+![Recursos de consultas do Amazon DynamoDB](src/img/20250624213224.png)
+- Visão geral do Amazon DynamoDB
+![Visão geral do Amazon DynamoDB](src/img/20250624213854.png)
 
+### Amazon Relational Database Service (RDS)
 - Visão geral do Amazon RDS
 ![Visão geral do Amazon RDS](src/img/20250623215225.png)
 - Disponibilidade e durabilidade do Amazon RDS
