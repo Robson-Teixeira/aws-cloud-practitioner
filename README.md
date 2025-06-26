@@ -24,6 +24,14 @@ Repositório de preparação para a certificação AWS Cloud Practitioner.
 - Tipos de volume do Amazon EBS
 ![Tipos de volume do Amazon EBS](src/img/20250618232624.png)
 
+### AWS Identity and Access Management (IAM)
+- Visão geral do AWS IAM
+![Visão geral do AWS IAM](src/img/20250625202810.png)
+- Gerenciamento de permissões no AWS IAM
+![Gerenciamento de permissões no AWS IAM](src/img/20250625213332.png)
+- Recursos do AWS IAM - Análise de acesso
+![Recursos do AWS IAM - Análise de acesso](src/img/20250625213828.png)
+
 ### Amazon VPC
 - Visão geral do Amazon VPC
 ![Visão geral do Amazon VPC](src/img/20250622134735.png)
@@ -97,3 +105,5 @@ Repositório de preparação para a certificação AWS Cloud Practitioner.
 ![Visão Geral de Suporte, Recursos e Documentação da AWS](src/img/20250618233935.png)
 - Visão geral do AWS Cloud Adoption Framework
 ![Visão geral do AWS Cloud Adoption Framework](src/img/20250622094114.png)
+- Visão geral de segurança e conformidade na AWS
+![Visão geral de segurança e conformidade na AWS](src/img/20250625202324.png)
