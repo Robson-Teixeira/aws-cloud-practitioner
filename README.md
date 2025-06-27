@@ -24,6 +24,16 @@ Repositório de preparação para a certificação AWS Cloud Practitioner.
 - Tipos de volume do Amazon EBS
 ![Tipos de volume do Amazon EBS](src/img/20250618232624.png)
 
+### Amazon Elastic File System
+- Visão geral do Amazon EFS
+![Visão geral do Amazon EFS](src/img/20250626193537.png)
+- Benefícios do Amazon EFS
+![Benefícios do Amazon EFS](src/img/20250626194003.png)
+- Recursos do Amazon EFS
+![Recursos do Amazon EFS](src/img/20250626194404.png)
+- Amazon EFS - Transferência e backup de dados
+![Amazon EFS - Transferência e backup de dados](src/img/20250626194703.png)
+
 ### AWS Identity and Access Management (IAM)
 - Visão geral do AWS IAM
 ![Visão geral do AWS IAM](src/img/20250625202810.png)
