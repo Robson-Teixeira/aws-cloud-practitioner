@@ -23,6 +23,12 @@ Repositório de preparação para a certificação AWS Cloud Practitioner.
 ![Benefícios do Amazon EBS](src/img/20250618232139.png)
 - Tipos de volume do Amazon EBS
 ![Tipos de volume do Amazon EBS](src/img/20250618232624.png)
+- Recuperação automática e auto scaling
+![Recuperação automática e auto scaling](src/img/20250627202040.png)
+
+### Amazon CloudWatch
+- Visão geral do Amazon CloudWatch
+![Visão geral do Amazon CloudWatch](src/img/20250627202603.png)
 
 ### Amazon Elastic File System
 - Visão geral do Amazon EFS
