@@ -9,6 +9,8 @@ Repositório de preparação para a certificação AWS Cloud Practitioner.
 ![Visão geral da infraestrutura global da AWS](src/img/20250618003922.png)
 - Benefícios da infraestrutura global da AWS
 ![Benefícios da infraestrutura global da AWS](src/img/20250618004318.png)
+- Aplicações web altamente disponíveis
+![Aplicações web altamente disponíveis](src/img/20250628152901.png)
 
 ### Amazon EC2
 - Visão geral do Amazon EC2
@@ -25,6 +27,10 @@ Repositório de preparação para a certificação AWS Cloud Practitioner.
 ![Tipos de volume do Amazon EBS](src/img/20250618232624.png)
 - Recuperação automática e auto scaling
 ![Recuperação automática e auto scaling](src/img/20250627202040.png)
+- Benefícios do Amazon ELB
+![Benefícios do Amazon ELB](src/img/20250628153635.png)
+- Recursos do Amazon ELB
+![Recursos do Amazon ELB](src/img/20250628154012.png)
 
 ### Amazon CloudWatch
 - Visão geral do Amazon CloudWatch
@@ -76,6 +82,10 @@ Repositório de preparação para a certificação AWS Cloud Practitioner.
 - Visão geral do AWS Systems Manager
 ![Visão geral do AWS Systems Manager](src/img/20250621190159.png)
 
+### Amazon CloudFront
+- Visão geral do Amazon CloudFront
+![Visão geral do Amazon CloudFront](src/img/20250628155723.png)
+
 ### Amazon DynamoDB
 - NoSQL
 ![NoSQL](src/img/20250624201957.png)
@@ -109,6 +119,8 @@ Repositório de preparação para a certificação AWS Cloud Practitioner.
 ![Segurança no Amazon RDS](src/img/20250623223936.png)
 
 ### Amazon Route 53
+- Visão geral do Amazon Route 53
+![Visão geral do Amazon Route 53](src/img/20250628154607.png)
 - Visão geral de DNS
 ![Visão geral de DNS](src/img/20250618233525.png)
 
